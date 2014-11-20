@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">238343126753</string>
+  <string name="achievement_much_welcome">CgkI4f3t8vcGEAIQAg</string>
+  <string name="achievement_some_point">CgkI4f3t8vcGEAIQAw</string>
+  <string name="achievement_such_points">CgkI4f3t8vcGEAIQBA</string>
+  <string name="achievement_such_speed">CgkI4f3t8vcGEAIQBQ</string>
+  <string name="achievement_wow_so_doble_hundred.">CgkI4f3t8vcGEAIQBg</string>
+  <string name="achievement_amaze">CgkI4f3t8vcGEAIQBw</string>
+  <string name="achievement_wat_moar_point">CgkI4f3t8vcGEAIQCA</string>
+  <string name="achievement_wow._amaze._such_skilz.">CgkI4f3t8vcGEAIQCQ</string>
+  <string name="achievement_such_fun">CgkI4f3t8vcGEAIQCg</string>
+  <string name="achievement_wat.">CgkI4f3t8vcGEAIQCw</string>
+  <string name="achievement_ten_tiem">CgkI4f3t8vcGEAIQDA</string>
+  <string name="achievement_so_experience">CgkI4f3t8vcGEAIQDQ</string>
+  <string name="achievement_such_gaming">CgkI4f3t8vcGEAIQDg</string>
+  <string name="achievement_moar_gaming">CgkI4f3t8vcGEAIQDw</string>
+  <string name="achievement_much_quarter_three">CgkI4f3t8vcGEAIQEg</string>
+  <string name="achievement_centurion">CgkI4f3t8vcGEAIQEA</string>
+  <string name="achievement_yum">CgkI4f3t8vcGEAIQEw</string>
+  <string name="achievement_yum_yum">CgkI4f3t8vcGEAIQFA</string>
+  <string name="achievement_much_taste">CgkI4f3t8vcGEAIQFQ</string>
+  <string name="achievement_such_delicious">CgkI4f3t8vcGEAIQFg</string>
+  <string name="achievement_so_love_meatball">CgkI4f3t8vcGEAIQFw</string>
+  <string name="achievement_balls_of_meat">CgkI4f3t8vcGEAIQGA</string>
+  <string name="achievement_wow._meat._balls.">CgkI4f3t8vcGEAIQGg</string>
+  <string name="achievement_balls">CgkI4f3t8vcGEAIQGQ</string>
+  <string name="achievement_very_v_hundred">CgkI4f3t8vcGEAIQGw</string>
+  <string name="achievement_fatty_boom_boom">CgkI4f3t8vcGEAIQHA</string>
+  <string name="achievement_what_over_nine_thousand">CgkI4f3t8vcGEAIQHQ</string>
+  <string name="achievement_amazeballs">CgkI4f3t8vcGEAIQHw</string>
+  <string name="achievement_yum._so_very_yum.">CgkI4f3t8vcGEAIQIA</string>
+  <string name="achievement_must._eat._all._balls.">CgkI4f3t8vcGEAIQIQ</string>
+  <string name="leaderboard_much_highscore">CgkI4f3t8vcGEAIQEQ</string>
+  <string name="leaderboard_most_total_meatballs">CgkI4f3t8vcGEAIQHg</string>
+</resources>
